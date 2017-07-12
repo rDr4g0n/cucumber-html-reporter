@@ -25,7 +25,7 @@ function drawChart(chartData) {
         is3D: true,
         colors: ['#5cb85c', '#d9534f', '#999', '#5bc0de', '#428bca', '#f0ad4e'],
         fontSize: '13',
-        fontName: '"Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif',
+        fontName: 'Helvetica Neue',
         slices: {
             1: {offset: 0.4},
             2: {offset: 0.4},
